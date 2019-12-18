@@ -1,0 +1,25 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puniyal01/node3-weather-website.git"
+  },
+  "author": "Peeyush Uniyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puniyal01/node3-weather-website/issues"
+  },
+  "homepage": "https://github.com/puniyal01/node3-weather-website#readme"
+}
